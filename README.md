@@ -8,6 +8,8 @@
 GabrielStange/GabrielStange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Bom dia, vamos ver até onde chegamos.
 
-Say something to me.
+```bash
+sudo apt update
+sudo apt upgrade -y
+```
